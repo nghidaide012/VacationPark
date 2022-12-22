@@ -1,0 +1,4 @@
+Nguyen Ngoc Bich,Ho Chi Minh,bichngoc@gmail.com,3
+Tran Vinh Nghi,Wemmel,nghitran@gmail.com,3
+Felix Selvik,Brussel,felix@gmail.com,1
+Aidan Keane,Dilbeek,aidan@gmail.com,2

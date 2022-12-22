@@ -1,0 +1,4 @@
+1,Brussel,12 Brussel straat,1,1,1,1,0,0
+2,city2,12 city,0,1,0,1,0,1
+3,city3,13 city,1,0,1,0,1,0
+4,city4,14 city,0,0,0,1,1,1
